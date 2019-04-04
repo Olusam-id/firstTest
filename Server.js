@@ -7,3 +7,8 @@ function product (a, b) {
 	return product = a * b
 }
 console.log(product(8, 10))
+
+function min(a, b) {
+	Math.min (a, b)
+}
+console.log(min(4, -4))
