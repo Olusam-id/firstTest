@@ -38,3 +38,17 @@
 	 		}
 	 	
 	 }
+
+	 let computer = {
+		brand: "hp",
+		model: "Pavilion",
+		color: "Ash",
+		Storage: "500gb",
+		ram: "6gb",
+		processor: {
+			type: "AMD",
+			speed: "2.0ghz",
+			coreNumber:  "Quadcore"
+		}
+	}
+	console.log(computer)
