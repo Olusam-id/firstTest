@@ -52,4 +52,5 @@ var addr = ""
 	name("Samuel")
 
 
-var files = ["one", "two", "three"]
+var files = ["one", "two", "three"];
+var o = {x: 1, y;3}
