@@ -46,3 +46,8 @@ var addr = ""
 	
 	console.log(addr)
 
+	function name (str) {
+		console.log (`hello ${str}`)
+	}
+	name("Samuel")
+
