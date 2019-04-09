@@ -94,6 +94,20 @@ function wordCount (str) {
 console.log(wordCount("written test result"))
 
 
+for ( var start = 1; start <=5; ++start) {
+		console.log(start)
+
+		
+		if (start % 2 == 0){
+			square = start * start
+			console.log(square)
+
+		}
+	
+
+	}
+
+
 </script>
 </body>
 </html>
