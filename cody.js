@@ -6,3 +6,5 @@ function message(){
 	message()
 	console.log(result)
 
+	//good result
+
