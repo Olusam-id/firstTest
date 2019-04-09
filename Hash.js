@@ -52,3 +52,5 @@
 		}
 	}
 	console.log(computer)
+
+	console.log(computer.processor.hasOwnProperty('speed'))
