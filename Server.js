@@ -37,3 +37,12 @@ for ( let number = 1; number <= 100; ++number) {
 	 	
 }
 
+
+var addr = ""
+	for (i = 0; i < 4; i++) {
+
+			addr += ["address"] + i + '\n'
+	}
+	
+	console.log(addr)
+
