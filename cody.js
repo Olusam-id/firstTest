@@ -1,6 +1,6 @@
 function message(){
 		let result = "4.3GPA"
-		console.log("good result: " + result)
+		console.log("good grades: " + result)
 	}
 
 	message()
