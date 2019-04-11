@@ -59,3 +59,4 @@ function greetings(customer) {
 	console.log("hello " + customer)
 	console.log ("welcome")
 }
+ console.log (4 + 5)
