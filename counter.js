@@ -94,15 +94,22 @@ function wordCount (str) {
 console.log(wordCount("written test result"))
 
 for ( var start = 1; start <=5; ++start) {
+
 		console.log(start, "", "hope it works")
+
+		console.log(start, "this should work now", "lets try it again"
 
 		
 
 		console.log("i am alive")
 
 		if (start % 2 == 0){
+
 			twice = start * start * start
 			console.log(twice)
+
+			squared = start * start
+			console.log(squared)
 
 		}
 	
