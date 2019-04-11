@@ -95,7 +95,7 @@ console.log(wordCount("written test result"))
 
 
 for ( var start = 1; start <=5; ++start) {
-		console.log(start)
+		console.log(start, "this should work now")
 
 		
 		if (start % 2 == 0){
