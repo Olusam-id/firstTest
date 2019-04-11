@@ -55,6 +55,7 @@ var addr = ""
 var files = ["one", "two", "three"];
 var o = {x: 1, y;3}
 
-function greetings(name) {
-	console.log("hello " + name)
+function greetings(customer) {
+	console.log("hello " + customer)
+	console.log ("welcome")
 }
