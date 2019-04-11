@@ -94,7 +94,10 @@ function wordCount (str) {
 console.log(wordCount("written test result"))
 
 for ( var start = 1; start <=5; ++start) {
+
 		console.log(start, "", "hope it works")
+
+		console.log(start, "this should work now", "lets try it again"
 
 		
 
