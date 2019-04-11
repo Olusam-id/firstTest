@@ -1,4 +1,4 @@
-function message(){
+ message(){
 		let result = "4.3GPA"
 		console.log("good grades: " + result)
 	}
