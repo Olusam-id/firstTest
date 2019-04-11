@@ -97,7 +97,14 @@ for ( var start = 1; start <=5; ++start) {
 		console.log(start, "this should work now")
 
 		
+
 		console.log("i am alive")
+
+		if (start % 2 == 0){
+			twice = start * start
+			console.log(twice)
+
+		}
 	
 
 	}
