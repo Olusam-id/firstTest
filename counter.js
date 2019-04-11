@@ -106,7 +106,9 @@ for ( var start = 1; start <=5; ++start) {
 		if (start % 2 == 0){
 
 			twice = start * start * start
-			console.log(twice) // let us do it
+
+			console.log(twice) //trying possible scenario of conflicts
+
 
 			squared = start * start
 			console.log(squared)
