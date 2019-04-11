@@ -8,4 +8,5 @@ function message(){
 
 	//good result
 	//try updating this
+	console.log("read message")
 
