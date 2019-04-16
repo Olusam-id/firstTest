@@ -60,3 +60,5 @@ function greetings(customer, number) {
 	console.log ("welcome", number)
 }
  console.log (2 + 5)
+
+ console.log ("good day")

@@ -11,3 +11,9 @@
 	console.log("read message")
 
 	console.log("please work")
+
+	function numbers() {
+		let counter = 0
+		for (let i =0; i <= 10; ++i)
+		console.log (numbers())
+	}
